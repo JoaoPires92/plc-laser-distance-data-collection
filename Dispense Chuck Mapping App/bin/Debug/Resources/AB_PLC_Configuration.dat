@@ -1,0 +1,32 @@
+W4-DIS-01 - Dispense 13|Lane1|Program:C10S30_1_Dispense.LaserData.NozzleTipHeight|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_1_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_1_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane1.Lot_Code|Program:C10S30_1_Dispense.HMI_Dispense_LaserMeasurement|Lane2|Program:C10S30_2_Dispense.LaserData.NozzleTipHeight|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_2_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_2_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane2.Lot_Code|Program:C10S30_2_Dispense.HMI_Dispense_LaserMeasurement
+W4-DIS-02 - Dispense 14|Lane1|Program:C10S30_1_Dispense.LaserData.NozzleTipHeight|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_1_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_1_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane1.Lot_Code|Program:C10S30_1_Dispense.HMI_Dispense_LaserMeasurement|Lane2|Program:C10S30_2_Dispense.LaserData.NozzleTipHeight|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_2_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_2_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane2.Lot_Code|Program:C10S30_2_Dispense.HMI_Dispense_LaserMeasurement
+W4-DIS-03 - Dispense 15|Lane1|Program:C10S30_1_Dispense.LaserData.NozzleTipHeight|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_1_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_1_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane1.Lot_Code|Program:C10S30_1_Dispense.HMI_Dispense_LaserMeasurement|Lane2|Program:C10S30_2_Dispense.LaserData.NozzleTipHeight|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_2_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_2_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane2.Lot_Code|Program:C10S30_2_Dispense.HMI_Dispense_LaserMeasurement
+W4-DIS-03 - Dispense 16|Lane1|Program:C10S30_1_Dispense.LaserData.NozzleTipHeight|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_1_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_1_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_1_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane1.Lot_Code|Program:C10S30_1_Dispense.HMI_Dispense_LaserMeasurement|Lane2|Program:C10S30_2_Dispense.LaserData.NozzleTipHeight|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToDatum|Program:C10S30_2_Dispense.LaserData.NozzleTipToDrop|Program:C10S30_2_Dispense.LaserData.LaserMeasurementToLFID|Program:C10S30_2_Dispense.WeissZServo.Positions[4].Stored.A1Pos|gLotControl.Lane2.Lot_Code|Program:C10S30_2_Dispense.HMI_Dispense_LaserMeasurement
+End of Configuration File
+
+
+//Comments
+File Created on: 24 NOV 19
+Last Modified: 
+Modified by: 
+Modification Reason: 
+
+######### PLC_Tags #########
+
+Lane 1:
+Program:C10S30_1_Dispense.LaserData.NozzleTipHeight
+Program:C10S30_1_Dispense.LaserData.LaserMeasurementToDatum
+Program:C10S30_1_Dispense.LaserData.NozzleTipToDrop
+Program:C10S30_1_Dispense.LaserData.LaserMeasurementToLFID
+Program:C10S30_1_Dispense.WeissZServo.Positions[4].Stored.A1Pos
+gLotControl.Lane1.Lot_Code
+Program:C10S30_1_Dispense.HMI_Dispense_LaserMeasurement
+
+Lane 2:
+Program:C10S30_2_Dispense.LaserData.NozzleTipHeight
+Program:C10S30_2_Dispense.LaserData.LaserMeasurementToDatum
+Program:C10S30_2_Dispense.LaserData.NozzleTipToDrop
+Program:C10S30_2_Dispense.LaserData.LaserMeasurementToLFID
+Program:C10S30_2_Dispense.WeissZServo.Positions[4].Stored.A1Pos
+gLotControl.Lane2.Lot_Code
+Program:C10S30_2_Dispense.HMI_Dispense_LaserMeasurement

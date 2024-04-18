@@ -1,0 +1,46 @@
+HVL01-01 - Dispense 1|Lane1|3040|3958|166|5532|3048|3144|3044|3250|3346|1354|Lane2|3040|3958|166|5560|3048|3144|3044|3250|3346|1438
+HVL01-02 - Dispense 2|Lane1|3842|4760|152|5340|3850|3946|3846|4052|4148|1058|Lane2|3810|4728|152|5368|3818|3914|3814|4020|4116|1138
+HVL01-26 - Dispense 3|Lane1|3842|4760|152|5340|3850|3946|3846|4052|4148|1058|Lane2|3810|4728|152|5368|3818|3914|3814|4020|4116|1138
+HVL02-01 - Dispense 4|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL02-02 - Dispense 5|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL02-03 - Dispense 6|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL03-01 - Dispense 7|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL03-02 - Dispense 8|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL03-03 - Dispense 9|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL03-04 - Dispense 10|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL03-05 - Dispense 11|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+HVL03-06 - Dispense 12|Lane1|3962|4880|152|5256|3970|4066|3966|4172|4268|894|Lane2|3930|4848|152|5284|3938|4034|3934|4140|4236|974
+End of Configuration File
+
+
+//Comments
+File Created on: 26 JUL 19
+Last Modified: 05 Oct 19
+Modified by: NUNESJP
+Modification Reason: Added Lot Code for Lane 1 and 2. 
+
+Lane1 and Lane2 DB address values will need updating if PLC DB configuration Changes in the future. 
+
+PLC Name from Vaulues used above: (Use PLC Watch table to obtain correcet address and replace above)
+Lane 1:
+"DB_ST04_Local".strHeightMeasurement.rZPositionAtCylinder
+"DB_ST04_Local".strHeightMeasurement.rHeightCalibration
+"DB_ST00_MPARAMS".str_St00.rZDistanceNozzleToProduct
+"DB_HMI".strMachineStatus.straStationDispenser[1].rDistanceNozzleToDrop
+"DB_ST04_Local".strHeightMeasurement.raMeasuredHeight[1]
+"DB_ST04_Local".strHeightMeasurement.raMeasuredHeight[25]
+"DB_ST04_Local".strHeightMeasurement.rActualHeigth
+"DB_ST04_Local".strHeightMeasurement.raCorrectionValueCameraFocus[1]
+"DB_ST04_Local".strHeightMeasurement.raCorrectionValueCameraFocus[25]
+"DB_HMI".strProcessControl.straLotInfo[1].iEnterLotCode_2[1]
+Lane 2:
+"DB_ST06_Local".strHeightMeasurement.rZPositionAtCylinder
+"DB_ST06_Local".strHeightMeasurement.rHeightCalibration
+"DB_ST00_MPARAMS".str_St00.rZDistanceNozzleToProduct
+"DB_HMI".strMachineStatus.straStationDispenser[2].rDistanceNozzleToDrop
+"DB_ST06_Local".strHeightMeasurement.raMeasuredHeight[1]
+"DB_ST06_Local".strHeightMeasurement.raMeasuredHeight[25]
+"DB_ST06_Local".strHeightMeasurement.rActualHeigth
+"DB_ST06_Local".strHeightMeasurement.raCorrectionValueCameraFocus[1]
+"DB_ST06_Local".strHeightMeasurement.raCorrectionValueCameraFocus[25]
+"DB_HMI".strProcessControl.straLotInfo[2].iEnterLotCode_2[1]

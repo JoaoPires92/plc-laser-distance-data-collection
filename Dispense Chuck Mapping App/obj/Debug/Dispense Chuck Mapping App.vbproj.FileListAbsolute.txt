@@ -1,0 +1,58 @@
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.exe.config
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.exe
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.pdb
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.xml
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.Resources.resources
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.exe
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.xml
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.pdb
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.F_Main.resources
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.ResolveComReference.cache
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.exe.config
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.exe
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.pdb
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.xml
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbprojAssemblyReference.cache
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.ResolveComReference.cache
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.F_Main.resources
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.Resources.resources
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.GenerateResource.cache
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.CoreCompileInputs.cache
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.exe
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.xml
+U:\Ops-ENG\Libre\Projects\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.pdb
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\HslCommunication.dll
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\HslCommunication.xml
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nunesjp\Desktop\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.CopyComplete
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.exe.config
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.exe
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.pdb
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Dispense Chuck Mapping App.xml
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\HslCommunication.dll
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\HslCommunication.xml
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.ResolveComReference.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.F_Main.resources
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.Resources.resources
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.CopyComplete
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.exe
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.xml
+C:\Users\nunesjp\Desktop\VS 2019 Apps\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.pdb
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbprojResolveAssemblyReference.cache
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.ResolveComReference.cache
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.F_Main.resources
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense_Chuck_Mapping_App.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.exe
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.xml
+C:\Users\pires\Desktop\JOÃO\Abbott\Dispense Chuck Mapping App\Dispense Chuck Mapping App\Dispense Chuck Mapping App\obj\Debug\Dispense Chuck Mapping App.pdb
